@@ -1,4 +1,4 @@
-# How to start a new
+# How to start
 
 1. copy: .env.sample file to .env
 2. npm i
